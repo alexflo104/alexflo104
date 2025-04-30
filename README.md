@@ -11,4 +11,4 @@ During my time at university, I discovered my passion for working with data. Cou
 # Connect With Me
  - LinkedIn - [https://www.linkedin.com/in/alexis-flores-362b10284/](https://www.linkedin.com/in/alexis-flores-362b10284/)
  - Personal Website - [https://alexflo104.github.io/Alexis-Flores-Website/](https://alexflo104.github.io/Alexis-Flores-Website/)
- - E-Mail Me - [alexisflores10498@gmail.com](alexisflores10498@gmail.com)
+ - E-Mail Me - [alexisflores10498@gmail.com](mailto:alexisflores10498@gmail.com)
