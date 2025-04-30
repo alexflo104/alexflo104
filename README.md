@@ -1,3 +1,5 @@
+<img src='Alexis_Banner.png'></img>
+
 ## Introducing Me
 
 My name is Alexis Flores, and I’m a recent graduate from the University of Houston-Clear Lake with a degree in Computer Information Systems. I had the opportunity to intern at Atlink Communications for three months as an IT intern, where I gained valuable experience in customer support using a ticketing system, managing Active Directories, and utilizing remote software to resolve IT issues externally.
