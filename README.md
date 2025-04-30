@@ -1,4 +1,11 @@
-## Hi there 👋
+## Introducing Me
+
+My name is Alexis Flores, and I’m a recent graduate from the University of Houston-Clear Lake with a degree in Computer Information Systems. I had the opportunity to intern at Atlink Communications for three months as an IT intern, where I gained valuable experience in customer support using a ticketing system, managing Active Directories, and utilizing remote software to resolve IT issues externally.
+
+During my time at university, I discovered my passion for working with data. Courses like Data Structures, where I learned SQL, and Software Engineering, where I worked on a semester-long group project to design and manage a database, were pivotal in shaping my interest. Now, I’m driven to break into the analyst field, where I can combine my technical skills and enthusiasm for data to contribute meaningfully to an organization.
+
+#Projects
+ - [Used Car Data Analysis](https://github.com/alexflo104/Used-Car-Data-Analysis)
 
 <!--
 **alexflo104/alexflo104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
