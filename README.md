@@ -1,4 +1,4 @@
-<img src='Alexis_Banner.png'></img>
+<img src='Alexis Flores.png'></img>
 
 # Introducing Me
 
