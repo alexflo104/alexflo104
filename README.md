@@ -9,6 +9,7 @@ During my time at university, I discovered my passion for working with data. Cou
 # Projects
  - [FitQuest](https://github.com/juan-estrad/FitQuest)
  - [Used Car Data Analysis](https://github.com/alexflo104/Used-Car-Data-Analysis)
+ - [Movie Data Analysis](https://github.com/alexflo104/Movie-Data-Analysis)
 
 # Connect With Me
  - LinkedIn - [https://www.linkedin.com/in/alexis-flores-362b10284/](https://www.linkedin.com/in/alexis-flores-362b10284/)
