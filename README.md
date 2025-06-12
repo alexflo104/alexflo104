@@ -7,9 +7,12 @@ My name is Alexis Flores, and I’m a recent graduate from the University of Hou
 During my time at university, I discovered my passion for working with data. Courses like Data Structures, where I learned SQL, and Software Engineering, where I worked on a semester-long group project to design and manage a database, were pivotal in shaping my interest. Now, I’m driven to break into the analyst field, where I can combine my technical skills and enthusiasm for data to contribute meaningfully to an organization.
 
 # Projects
- - [FitQuest](https://github.com/juan-estrad/FitQuest)
+## Data Analysis Projects
  - [Used Car Data Analysis](https://github.com/alexflo104/Used-Car-Data-Analysis)
  - [Movie Data Analysis](https://github.com/alexflo104/Movie-Data-Analysis)
+
+## Programming projects
+ - [FitQuest](https://github.com/juan-estrad/FitQuest)
 
 # Connect With Me
  - LinkedIn - [https://www.linkedin.com/in/alexis-flores-362b10284/](https://www.linkedin.com/in/alexis-flores-362b10284/)
